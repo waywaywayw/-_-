@@ -1,1 +1,1 @@
-sklearn.metrics中 roc_auc_score 和 auc 的区别？
+记录可能的坑啦
